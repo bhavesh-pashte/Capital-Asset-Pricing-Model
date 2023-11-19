@@ -1,14 +1,15 @@
 #Importing Necessary Libraries
 import streamlit as st 
+st.set_page_config(page_title= "CAPM",
+                   page_icon="chart_with_upwards_trend",
+                   layout="wide",
+                   )
 import pandas as pd
 import yfinance as yf
 import pandas_datareader.data as web
 import datetime
 import CAPM_functions
-st.set_page_config(page_title= "CAPM",
-                   page_icon="chart_with_upwards_trend",
-                   layout="wide",
-                   )
+
 
 st.title("Capital Asset Pricing Model")
 
