@@ -39,5 +39,7 @@ It is a measure of a stock's risk (volatility of returns) reflected by measuring
 •	If investors are interested in gaining more return, they have to bear more risk compared to the risk free asset 
 
 # Market Portfolio Return:
+
 •	Market portfolio includes all securities in the market. A good representation of the market portfolio is the S&P 500. 
+
 •	Market portfolio return is the average return of the overall return of the SP500.
